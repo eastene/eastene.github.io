@@ -1,8 +1,17 @@
 body{
-	color: "#558C89";
+	background-color:#74AFAD;
 }
 
-personal-info{
-	color: #74ABAD;
+.personal-info{
+	background-color:#558C89;
+	width: 15%;
+	margin: 0px;
+	border: 0px;
+}
 
+h3{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	padding-left: 50px;
+	padding-right: 50px;
+	color: #ECECEA;
 }
