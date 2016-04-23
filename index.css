@@ -7,32 +7,12 @@ body{
 	background-color:#ECECEA;
 }
 
-div.menu-bar{
-	background-color:#74AFAD;
-	position: fixed;
-	height: 10%;
-	width: 100%;
-	margin: 0;	
-}
-
-div.personal-info{
-	position: fixed;
-	height: 10%;
-	width: 500%;
-	margin: 0;
-}
-
-div.menu-border{
-	background-color: #D9853B;
-	position: fixed;
-	left: 500px;
-	width: 10px;
-	height: 10%;
-}
-
 h1{
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	color: #ECECEA;
-	text-align: center;
-	vertical-align: middle;
+	color: #343434;
+}
+
+h3{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: #343434;
 }
