@@ -4,43 +4,35 @@
 }
 
 body{
-	background-color:#558C89;
+	background-color:#ECECEA;
 }
 
-div.sidebar{
+div.menu-bar{
 	background-color:#74AFAD;
 	position: fixed;
-	height: 100%;
-	width: 20%;
+	height: 10%;
+	width: 100%;
 	margin: 0;	
-}
-
-div.top-border{
-	background-color: #D9853B;
-	position: fixed;
-	width: 20%;
-	height: 10px;
 }
 
 div.personal-info{
 	position: fixed;
-	height: 35%;
-	width: 20%;
+	height: 10%;
+	width: 500%;
 	margin: 0;
 }
 
-div.divider{
+div.menu-border{
 	background-color: #D9853B;
 	position: fixed;
-	top: 35%;
-	width: 20%;
-	height: 10px;
-	
+	left: 500px;
+	width: 10px;
+	height: 10%;
 }
 
 h1{
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	color: #ECECEA;
 	text-align: center;
-	padding-top: 15px;
+	vertical-align: middle;
 }
